@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b28e19d89e55460c875a45c5ed916c6, type: 3}
+  m_Name: Server_Objects
+  m_EditorClassIdentifier: 
+  Objects:
+  - Name: Tank_001_1
+    Prefab: {fileID: 694932519919396962, guid: 8b73319b478374b47802372514f2b894, type: 3}
+  - Name: AI_Tank_01
+    Prefab: {fileID: 694932519919396962, guid: bfdee147f2ca74ae6a624f8de2976ac4, type: 3}
+  - Name: AI_TOWER_01
+    Prefab: {fileID: 6665555187601314377, guid: c18563d6f43b8430ba6f9dd95067f4fe, type: 3}
+  - Name: Tank_001_2
+    Prefab: {fileID: 694932519919396962, guid: 083c2d6a408fd864781f0e48b0c73933, type: 3}
+  - Name: Hp_Potion_1
+    Prefab: {fileID: 3179618275572778288, guid: 2f5fee66b11c2954d81634a019d7f2ea, type: 3}
+  - Name: Hp_Potion_2
+    Prefab: {fileID: 3179618275572778288, guid: 13dba4b32d510f14cbe91d7f382b4f69, type: 3}
+  - Name: BuffItem_Hp
+    Prefab: {fileID: 951066480273024931, guid: c5de2606f1b533342b388437835513c8, type: 3}
+  - Name: BuffItem_Speed
+    Prefab: {fileID: 9189018206323813231, guid: 32d15de06540fe54f9248185f7f6daa5, type: 3}
+  - Name: Box_Wood
+    Prefab: {fileID: 5827310782098950646, guid: 5aff5789de56d224c80642b36db7c198, type: 3}
+  - Name: Helipad
+    Prefab: {fileID: 3447365066614579900, guid: e69adb899fc9b384bb528c8a65bde0d8, type: 3}
+  - Name: BuffItem_Armor
+    Prefab: {fileID: 9189018206323813231, guid: 6099f0715f2a97342a1b26a89fc2428e, type: 3}
+  - Name: BuffItem_Damage
+    Prefab: {fileID: 9189018206323813231, guid: 44e85cc76bdee8742bf5be4d62c42f3b, type: 3}
+  - Name: Tank_002_1
+    Prefab: {fileID: 694932519919396962, guid: b656ffd909df51c45945c73ce0b592c0, type: 3}
+  - Name: BuffItem_TripleBullet
+    Prefab: {fileID: 9189018206323813231, guid: b9a6aa6ee2c06f94ea592985becda5b7, type: 3}
+  - Name: Tank_003_1
+    Prefab: {fileID: 694932519919396962, guid: d6491164f377977489bc0f8a741c307f, type: 3}
+  - Name: AI_TOWER_003_3
+    Prefab: {fileID: 6665555187601314377, guid: 775ee3aa6ac74b340b65db9d01470f81, type: 3}
+  - Name: Box_Iron
+    Prefab: {fileID: 5827310782098950646, guid: 5c3210e0b1323624fa9b1fd557e99180, type: 3}
+  - Name: Box_Pile
+    Prefab: {fileID: 5827310782098950646, guid: 46bc00af3873cd0429b63f2608c407f4, type: 3}
+  - Name: MainHouse_1
+    Prefab: {fileID: 435882021389006184, guid: e8e873981de974e2ebe322955554cc5a, type: 3}
+  - Name: MainHouse_2
+    Prefab: {fileID: 8433155355017005797, guid: ea09b4433a8e74efb85995846dbe44dc, type: 3}
+  - Name: Flag
+    Prefab: {fileID: 8727531722703825445, guid: 9aacb2c5d9b3c487ead6a8221975653d, type: 3}
+  - Name: AI_TOWER_02
+    Prefab: {fileID: 6665555187601314377, guid: 9b55b44e5d7771e499bb8b36ec9f7e98, type: 3}
+  - Name: AI_TOWER_03
+    Prefab: {fileID: 6665555187601314377, guid: 9b3f235312f9821459db62f87f5b9bad, type: 3}
+  - Name: AI_TOWER_04
+    Prefab: {fileID: 6665555187601314377, guid: cc2d3b1ebd6ae724ea00e41a3f4fb56b, type: 3}
+  - Name: Tank_001_3
+    Prefab: {fileID: 694932519919396962, guid: ffd4d3c3fe667864c8ac240839fe8462, type: 3}
+  - Name: Tank_002_2
+    Prefab: {fileID: 694932519919396962, guid: f441090aad9c70044841143a48bc18c8, type: 3}
+  - Name: Tank_002_3
+    Prefab: {fileID: 694932519919396962, guid: e6547aece7383684b870b64281a15fbb, type: 3}
+  - Name: Tank_003_2
+    Prefab: {fileID: 694932519919396962, guid: d48d020877ec790429d36d751d4cd11d, type: 3}
+  - Name: Tank_003_3
+    Prefab: {fileID: 694932519919396962, guid: b637abb593f678647a323bb510e144aa, type: 3}

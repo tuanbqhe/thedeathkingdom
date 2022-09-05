@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BulletThrough
+  - HpBox
+  - Box
+  - MainHouse
+  - EfDestroy
+  - Flag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Wall
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GroundBase
+    uniqueID: 162280807
+    locked: 0
+  - name: GroundBlock
+    uniqueID: 1586316805
+    locked: 0
+  - name: GroundItem
+    uniqueID: 3935285079
+    locked: 0
+  - name: GamePlay
+    uniqueID: 966209371
+    locked: 0
